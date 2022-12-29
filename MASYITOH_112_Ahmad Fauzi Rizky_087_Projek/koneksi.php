@@ -1,0 +1,3 @@
+<?php
+    $con = mysqli_connect('localhost', 'root', '', 'db_sekolah') or die ('Gagal terhubung ke database');
+?> 
